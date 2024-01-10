@@ -2,3 +2,5 @@ Class (Hello)
 String, float;
 
 public static void main(args[]);
+printf ("hello world");
+end;
